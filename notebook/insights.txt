@@ -1,0 +1,2 @@
+686 null values in text column
+2340 Dupliacate rows
